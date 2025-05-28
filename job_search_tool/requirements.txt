@@ -1,0 +1,11 @@
+# For web scraping (examples, choose based on site complexity)
+# requests
+# beautifulsoup4
+# selenium
+# playwright
+
+# For AI integration (example for Gemini)
+# google-generativeai
+
+# No external packages required for the current stubbed version.
+# Ensure this file is kept up-to-date as actual dependencies are added.

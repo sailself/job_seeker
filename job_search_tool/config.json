@@ -1,0 +1,7 @@
+{
+    "target_country": "Canada",
+    "target_cities": ["Toronto", "Vancouver"],
+    "job_titles": ["Senior Software Engineer"],
+    "cv_path": "my_cv.pdf",
+    "output_file": "canadian_jobs.txt"
+}
